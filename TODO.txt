@@ -18,3 +18,4 @@ Technologies web
 -Servlet et JSP
 -Wicket
 -Struts2
+-JSF
