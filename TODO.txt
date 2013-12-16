@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Sites à scanner
-=======
 Sites à scanner
 
 -voyages-sncf.com
@@ -22,4 +19,6 @@ Technologies web
 -Wicket
 -Struts2
 -JSF
->>>>>>> TODO
+
+Application lourde :
+-Technologie Swing
