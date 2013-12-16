@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sites à scanner
 
 -voyages-sncf.com
@@ -19,3 +20,6 @@ Technologies web
 -Wicket
 -Struts2
 -JSF
+=======
+Sites à scanner
+>>>>>>> 1be4adb... Initialisation 2
