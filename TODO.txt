@@ -1,1 +1,25 @@
+<<<<<<< HEAD
 Sites à scanner
+=======
+Sites à scanner
+
+-voyages-sncf.com
+-ryanair.com
+-eurolines.fr
+-eurostar.com
+
+Langages de programmation de l'application :
+-JAVA
+
+Serveur d'application
+-Tomcat 7
+
+Couleurs de l'application :
+-Rouge sur fond vert
+
+Technologies web
+-Servlet et JSP
+-Wicket
+-Struts2
+-JSF
+>>>>>>> TODO
